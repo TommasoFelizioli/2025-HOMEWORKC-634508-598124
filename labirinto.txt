@@ -1,0 +1,11 @@
+Stanze:atrio, biblioteca, n10, n11, laboratorio, aula
+Magica:n10, aula
+Buia:biblioteca lanterna
+Bloccata:atrio nord chiave
+Inizio:n11
+Vincente:laboratorio
+Mago:aula Mago "Parla-con-i-libri" bacchetta
+Cane:atrio Cane "WOOF"
+Strega:n10 Strega "HEHEHE"
+Attrezzi:martello 10 aula, lanterna 4 n11, chiave 1 n10, pozione 2 biblioteca
+Uscite:n11 nord atrio, n11 est n10, atrio sud n11, atrio ovest aula, aula est atrio, n10 ovest n11, n10 nord biblioteca, biblioteca sud n10, biblioteca est laboratorio, laboratorio ovest biblioteca
